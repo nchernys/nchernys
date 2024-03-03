@@ -5,7 +5,7 @@ I have always been passionate about web development. I remember the first time m
   
 I am currently working on a fragment for a Learning Management System using MERN stack and RESTful APIs. My project currently has student, course, assignment, and grade management systems using PUT, GET, PATCH, DELETE requests. You can check the works-in-progress of the back end code <a href="https://github.com/nchernys/school_dashboard_backend">here</a>. 
   
-You can check my other projects in my repositories on GitHub and on my portfolio website: <a href="https://portfolio.chernysn.tech">https://portfolio.chernysn.tech</a>.
+You can check my other projects in my <a href="https://github.com/nchernys?tab=repositories">repositories on GitHub</a> and on my portfolio website: <a href="https://portfolio.chernysn.tech">https://portfolio.chernysn.tech</a>.
   
 <!--
 **nchernys/nchernys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
