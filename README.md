@@ -6,13 +6,12 @@ I have always been passionate about web development. I remember the first time m
 * **Currently in progress:**
 
 
-* **Currently in progress:**  
-I am currently working on the mental wellness website project designed in React JS, PHP with Mongo DB database. The project currently features fully functional Team pages on both client and admin sides. You can see the works-in-progress of this project <span>[here](https://github.com/nchernys/mental-wellness)</span>.  
+*I am currently working on the mental wellness website project designed in React JS, PHP with Mongo DB database. The project currently features fully functional Team pages on both client and admin sides. You can see the works-in-progress of this project <span>[here](https://github.com/nchernys/mental-wellness)</span>.  
 
-I continuing to work on the hotel reservation project that features a reservation form using the `<Calendar />` React component, hotel room description that includes a picture gallery with previews, and the mobile-first responsive design. You can see the works-in-progress of this project <span>[here](https://github.com/nchernys/hotel-lake)</span>.  
+*I continuing to work on the hotel reservation project that features a reservation form using the `<Calendar />` React component, hotel room description that includes a picture gallery with previews, and the mobile-first responsive design. You can see the works-in-progress of this project <span>[here](https://github.com/nchernys/hotel-lake)</span>.  
 
 * **Recently completed:**  
-I have recently completed a fragment for a Learning Management System using MERN stack and RESTful APIs. My project currently has student, course, assignment, and grade management systems using POST, GET, PATCH, DELETE requests. You can check the latest update of the project <a href="https://github.com/nchernys/school-dashboard-MERN">here</a>. 
+*I have recently completed a fragment for a Learning Management System using MERN stack and RESTful APIs. My project currently has student, course, assignment, and grade management systems using POST, GET, PATCH, DELETE requests. You can check the latest update of the project <a href="https://github.com/nchernys/school-dashboard-MERN">here</a>. 
   
 You can check my other projects in my <a href="https://github.com/nchernys?tab=repositories">repositories on GitHub</a> and on my portfolio website: <a href="https://portfolio.chernysn.tech">https://createdevsolutions.com</a>.
 
