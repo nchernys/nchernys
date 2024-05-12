@@ -11,7 +11,7 @@ I continuing to work on the hotel reservation project that features a reservatio
 **Recently completed:**  
 I have recently completed a fragment for a Learning Management System using MERN stack and RESTful APIs. My project currently has student, course, assignment, and grade management systems using POST, GET, PATCH, DELETE requests. You can check the latest update of the project <a href="https://github.com/nchernys/school-dashboard-MERN">here</a>. 
   
-You can check my other projects in my <a href="https://github.com/nchernys?tab=repositories">repositories on GitHub</a> and on my portfolio website: <a href="https://portfolio.chernysn.tech">https://nchernysheva.com</a>.
+You can check my other projects in my <a href="https://github.com/nchernys?tab=repositories">repositories on GitHub</a> and on my portfolio website: <a href="https://nchernysheva.com">https://nchernysheva.com</a>. You can also read my blog about coding here: <a href="https://blog.nchernysheva.com">https://blog.nchernysheva.com</a>!
 
 <!--
 **nchernys/nchernys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
