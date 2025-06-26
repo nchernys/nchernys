@@ -1,6 +1,5 @@
-### Hi there 👋
-My name is Natalia, and I am a Full Stack web developer. I have always been passionate about web development. I remember the first time my father showed me some basic HTML tags and how I spent hours coding my first web pages. My passion for coding did not end there. During the pandemic, I decided to use my free time to learn coding. After teaching myself HTML5, CSS3, JavaScript, and finally the MERN stack, I completed several professional certificate programs in back end and full stack development, and I am currently pursuing a BS in Computer Science. 
-
+### Hi there 👋  
+My name is Natalia, and I’m a rising junior majoring in Software Engineering at Western Governors University. I’ve always been passionate about web development—an interest that began when my father introduced me to a few basic HTML tags. I spent hours experimenting with simple web pages, and that early exposure sparked a lasting passion for software development. During the pandemic, I made the most of my time by diving into HTML5, CSS3, JavaScript, and eventually the MERN stack. I went on to complete several professional certificate programs in back-end and full-stack development, which further reinforced my interest in the field and inspired me to pursue a BS in Computer Science.
 <!--
 **nchernys/nchernys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
